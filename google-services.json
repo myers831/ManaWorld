@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "428238603118",
+    "firebase_url": "https://mana-world-c6b1b.firebaseio.com",
+    "project_id": "mana-world-c6b1b",
+    "storage_bucket": "mana-world-c6b1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428238603118:android:0808fc7cb35d2410",
+        "android_client_info": {
+          "package_name": "com.example.manaworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428238603118-mgop4vjlrtfv39ch79eu6798vhd7ichm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAybyykFm_MC-rOJPyUGssx81XNahazXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428238603118-mgop4vjlrtfv39ch79eu6798vhd7ichm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
