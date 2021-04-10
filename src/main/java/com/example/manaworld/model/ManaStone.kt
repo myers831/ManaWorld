@@ -1,5 +1,6 @@
 package com.example.manaworld.model
 
-class ManaStone {
+class ManaStone(val id: String,
+                var name: String) {
 
 }

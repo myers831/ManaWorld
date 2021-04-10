@@ -9,8 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="com.example.manaworld.view.log.LogActivity"></activity>
-        <activity android:name=".view.main.MainActivity">
+        <activity android:name="com.example.manaworld.base.BaseActivity"></activity>
+        <activity android:name="com.example.manaworld.log.LogActivity"></activity>
+        <activity android:name=".main.view.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

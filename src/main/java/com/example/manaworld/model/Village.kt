@@ -1,5 +1,7 @@
 package com.example.manaworld.model
 
-class Village (
-        val routes: ArrayList<Route>
-)
+class Village (val id: String,
+               var name: String,
+               var routes: HashMap<String, Route>,
+               var resources: HashMap<String, Resource>
+): Settlement()
